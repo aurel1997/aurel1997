@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aurel1997
-- 👀 I’m interested in react, js, tailwind, Axios API.
+- 👀 I’m interested in react, js, recoil, tailwind, Axios API.
 - 🌱 I’m currently learning react, Axios API
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
